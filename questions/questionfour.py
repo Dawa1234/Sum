@@ -2,4 +2,17 @@
 # on the 24th digital clock.
 
 
+N = int(input("Enter the minutes passed since midnight:"))
+hours = (N//60)
+minute = (N%60)
+print("The hour is %s" %(hours))
+print(f"The minute is {minute}")
+
+print("The time right now is {}:{}".format(hours, minute))
+
+
+
+
+
+
 

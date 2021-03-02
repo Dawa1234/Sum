@@ -1,0 +1,2 @@
+# N students take k apples and distributes them among each others evenly. The remaining (the undivisible) part
+# reamains in the basket. How many apples will each single student get? How many apples will remain in the basket?
