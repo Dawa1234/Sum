@@ -10,4 +10,3 @@ height = float(input("Enter the height of the person in meter:"))
 BMI = mass / (height ** 2)
 
 print("The body mass index of the person is %s kg/m.sq." %(BMI))
-
