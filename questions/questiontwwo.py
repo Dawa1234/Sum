@@ -4,4 +4,5 @@
 length = int(input("Enter the length of the base:"))
 height = int(input("Enter the height of the triangle:"))
 area = (1/2) * length * height
-print(f"The area of the triangle is {area}")
+for i in range(3):
+    print(f"The area of the triangle is {area}")

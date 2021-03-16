@@ -1,7 +1,7 @@
-# Write a program to find a sum of the first n positive integers.
-#                 sum = (n*(n +1))/2
+# Write a program to find a sum of the first i positive integers.
+#                 sum = (i*(i +1))/2
 
-list = [1,2,3,4,5]
-if list > [0]:
-    total = sum(list)
-    print(total)
+i = int(input("Enter positive integers: "))
+sum = (i*(i +1))/2
+
+print(f"{sum} is the sum of the first positive integers.")
